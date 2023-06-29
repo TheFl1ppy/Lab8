@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H9VSiGetF9O9Kqb81usi/+B6OF4bUKxAgZvBGsfKdwqY8MUvfOZAqJ2bz8p5IhjL8otJvoDYR845c9w9kjS+eA==",
+  "dgSpecHash": "qn9SzXpwYzghg5ChnN+MBjYKv5/yCvO1bcjVn9RoQsiqEjbYNW6xairXuk81TV7s3EHnFL0hV3ZYdpzhdtPfXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Lab1\\Lab2.csproj",
+  "projectFilePath": "C:\\Lab8\\lab8\\Lab1\\Lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fl1ppy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Fl1ppy\\.nuget\\packages\\mapster\\6.0.0\\mapster.6.0.0.nupkg.sha512",

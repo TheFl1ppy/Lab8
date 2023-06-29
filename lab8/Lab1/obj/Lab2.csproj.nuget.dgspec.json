@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Lab1\\Lab2.csproj": {}
+    "C:\\Lab8\\lab8\\Lab1\\Lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fl1ppy\\Desktop\\lab8\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Lab8\\lab8\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Lab8\\lab8\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Lab8\\lab8\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Fl1ppy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Lab8\\lab8\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\Domain.csproj"
+              "C:\\Lab8\\lab8\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Lab8\\lab8\\Domain\\Domain.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Fl1ppy\\Desktop\\lab8\\DataAccess\\DataAccess.csproj": {
+    "C:\\Lab8\\lab8\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Lab8\\lab8\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Lab8\\lab8\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Fl1ppy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\DataAccess\\obj\\",
+        "outputPath": "C:\\Lab8\\lab8\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -101,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\Domain.csproj"
+              "C:\\Lab8\\lab8\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Lab8\\lab8\\Domain\\Domain.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\Domain.csproj": {
+    "C:\\Lab8\\lab8\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Lab8\\lab8\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Lab8\\lab8\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Fl1ppy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Domain\\obj\\",
+        "outputPath": "C:\\Lab8\\lab8\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -234,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Lab1\\Lab2.csproj": {
+    "C:\\Lab8\\lab8\\Lab1\\Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Lab1\\Lab2.csproj",
+        "projectUniqueName": "C:\\Lab8\\lab8\\Lab1\\Lab2.csproj",
         "projectName": "Lab2",
-        "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Lab1\\Lab2.csproj",
+        "projectPath": "C:\\Lab8\\lab8\\Lab1\\Lab2.csproj",
         "packagesPath": "C:\\Users\\Fl1ppy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\Lab1\\obj\\",
+        "outputPath": "C:\\Lab8\\lab8\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -265,11 +265,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fl1ppy\\Desktop\\lab8\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Lab8\\lab8\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Lab8\\lab8\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\Fl1ppy\\Desktop\\lab8\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Fl1ppy\\Desktop\\lab8\\DataAccess\\DataAccess.csproj"
+              "C:\\Lab8\\lab8\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Lab8\\lab8\\DataAccess\\DataAccess.csproj"
               }
             }
           }
