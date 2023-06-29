@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab2</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApi.Controllers.UserController.GetAll">
+             <summary>
+            Просмотр записей в бд
+             </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.GetById(System.Int32)">
+             <summary>
+            Просмотр записи по id
+             </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Add(Lab2.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     Name = "Влад",
+                     PhoneNumber = "89999685146",
+                     Role = "0",
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Update(Lab2.Contracts.User.GetUserResponse)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 PUT /Todo
+                 {
+                     id = 1,
+                     Name = "Влад",
+                     PhoneNumber = "89999685146",
+                     Role = "1",
+                     isDeleted = false
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Delete(System.Int32)">
+             <summary>
+            удаление записи по id
+             </summary>
+        </member>
+    </members>
+</doc>
